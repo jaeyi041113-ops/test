@@ -88,7 +88,7 @@ SQL_BASIC 정규 과제는 매주 정해진 분량의 `초보자를 위한 BigQu
 # 2️⃣ 수행 인증란
 
 아래 중 하나 이상을 첨부해주세요.
-
+![수행인증](https://github.com/jaeyi041113-ops/test/blob/main/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5/DBFC4EC9-D5D2-4494-9EA0-0388FD7A3599.jpeg)
 - 강의 수강 화면 캡처
 - 문제 풀이 정답 화면 캡처
 - SQL 실행 결과 화면 캡처
@@ -113,7 +113,7 @@ ORDER BY ANIMAL_ID ASC;
 - 새로 배운 점: ASC는 기본값이라 생략이 가능하며, 이해했음에도 직접 해보니 약간 헷갈렸던 것 같다.
 ```
 
-
+![문제1](https://github.com/jaeyi041113-ops/test/blob/main/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5/9F164570-E063-4016-891E-3F1B6F170FC2.jpeg)
 
 ## 🧩 문제 2
 
@@ -130,8 +130,7 @@ ORDER BY ANIMAL_ID ;
 - 정렬 기준이 있다면 사용한 기준:ANIMAL_ID 오름차순으로
 - 새로 배운 점:처음에 INTAKE_CONDITION=sick 으로 했다가 오류가 났다. 따옴표를 붙이지 않으면 컬럼 등으로 오해할 수 있기 때문에 문자열 값은 따옴표를 붙여줘야한다는 것을 알게 되었다.
 ```
-
-
+![문제2](https://github.com/jaeyi041113-ops/test/blob/main/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5/3C321F04-55E0-4EA9-9C30-8C71C93635C3.jpeg)
 ---
 
 # 4️⃣ 이번 주 회고
