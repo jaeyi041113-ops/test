@@ -105,10 +105,7 @@ HAVING col1_count>3
 
 아래 중 하나 이상을 첨부해주세요.
 
-- 강의 수강 화면 캡처
-- 문제 풀이 정답 화면 캡처
-- SQL 실행 결과 화면 캡처
-
+![수강화면](https://github.com/jaeyi041113-ops/test/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80/5FF24E5D-860D-43A1-80CE-25C55511521C.jpeg)
 ---
 
 # 3️⃣ 확인 문제
@@ -127,7 +124,7 @@ HAVING col1_count>3
 - 새로 배운 점: MAX() 함수는 특정 컬럼에서 가장 큰 값을 구할 때 사용함. 날짜·시간 데이터에서는 가장 큰 값이 가장 최근 시간을 의미하므로 MAX(DATETIME)으로 가장 최근 보호 시작일을 구할 수 있음.
 ```
 
-<!-- 정답을 맞추게 되면, 정답입니다. 이 부분을 캡처해서 이 주석을 지우시고 첨부해주시면 됩니다. -->
+![최댓값 구하기](https://github.com/jaeyi041113-ops/test/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80/2BCE6837-6C55-4CD2-82BA-112CB2B87D73.jpeg)
 
 ## 🧩 문제 2
 
@@ -141,7 +138,7 @@ HAVING col1_count>3
 - 결과를 검증한 방법: 예시 데이터의 PRICE 값인 10,000 / 9,000 / 22,000을 비교해 가장 큰 값인 22,000이 조회되는지 확인했다.
 ```
 
-<!-- 정답을 맞추게 되면, 정답입니다. 이 부분을 캡처해서 이 주석을 지우시고 첨부해주시면 됩니다. -->
+![가장 비싼 상품 구하기](https://github.com/jaeyi041113-ops/test/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80/3BB9C91B-9C77-45B2-ABB1-E144AB551B09.jpeg)
 
 ## 🧩 문제 3
 
@@ -156,7 +153,7 @@ HAVING col1_count>3
 - 새로 배운 SQL 패턴: GROUP BY로 특정 컬럼을 기준으로 데이터를 묶고, COUNT(*)를 사용해 각 그룹의 개수를 구하는 GROUP BY + COUNT(*) 패턴.
 ```
 
-<!-- 정답을 맞추게 되면, 정답입니다. 이 부분을 캡처해서 이 주석을 지우시고 첨부해주시면 됩니다. -->
+![고양이 개 몇마리](https://github.com/jaeyi041113-ops/test/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80/60E88357-EE6E-4F8D-87A5-687968511A03.jpeg)
 
 ---
 
