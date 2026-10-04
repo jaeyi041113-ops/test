@@ -104,9 +104,7 @@ part 안에는 .. MICROSECOND MILLISECOND SECOND MINUTE HOUR DAYOFWEEK DAY DAYOF
 
 아래 중 하나 이상을 첨부해주세요.
 
-- 강의 수강 화면 캡처
-- 문제 풀이 정답 화면 캡처
-- SQL 실행 결과 화면 캡처
+![수강인증](https://github.com/jaeyi041113-ops/test/blob/main/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5/0A9E154F-B732-4377-A5A7-79F858A118BB.jpeg)
 
 ---
 
@@ -132,8 +130,7 @@ part 안에는 .. MICROSECOND MILLISECOND SECOND MINUTE HOUR DAYOFWEEK DAY DAYOF
   `CASE WHEN`을 사용하여 대여 기간이 30일 이상인지 판단하고,
   결과를 '장기 대여' 또는 '단기 대여'로 표시하는 `RENT_TYPE` 컬럼을 만들었다.
 ```
-
-<!-- 정답을 맞추게 되면, 정답입니다. 이 부분을 캡처해서 이 주석을 지우시고 첨부해주시면 됩니다. -->
+![문제1](https://github.com/jaeyi041113-ops/test/blob/main/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5/BAEB0E4D-35E1-4ECC-88BC-9F5E57F53563.jpeg)
 
 ## 🧩 문제 2
 
@@ -153,7 +150,7 @@ part 안에는 .. MICROSECOND MILLISECOND SECOND MINUTE HOUR DAYOFWEEK DAY DAYOF
 
 ```
 
-<!-- 정답을 맞추게 되면, 정답입니다. 이 부분을 캡처해서 이 주석을 지우시고 첨부해주시면 됩니다. -->
+![문제2](https://github.com/jaeyi041113-ops/test/blob/main/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5/2B04F6E3-D8C3-495C-A2AA-11AA11AD405C.jpeg)
 
 ## 🧩 문제 3
 
@@ -174,8 +171,7 @@ part 안에는 .. MICROSECOND MILLISECOND SECOND MINUTE HOUR DAYOFWEEK DAY DAYOF
 - 정렬 기준:
   `ORDER BY BOARD_ID DESC`를 사용하여 게시글 ID를 기준으로 내림차순 정렬했다.
 ```
-
-<!-- 정답을 맞추게 되면, 정답입니다. 이 부분을 캡처해서 이 주석을 지우시고 첨부해주시면 됩니다. -->
+![문제3](https://github.com/jaeyi041113-ops/test/blob/main/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5/16150512-AECC-48E2-B1F8-8B93FDB49025.jpeg)
 
 ## 🧩 문제 4
 
@@ -200,7 +196,7 @@ part 안에는 .. MICROSECOND MILLISECOND SECOND MINUTE HOUR DAYOFWEEK DAY DAYOF
   여기서는 `GROUP BY` 후 계산된 평균값을 기준으로 필터링해야 하기 때문에 `WHERE`가 아니라 `HAVING`을 사용해야 한다.
 ```
 
-<!-- 정답을 맞추게 되면, 정답입니다. 이 부분을 캡처해서 이 주석을 지우시고 첨부해주시면 됩니다. -->
+![문제4](https://github.com/jaeyi041113-ops/test/blob/main/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5/E47B9227-BF49-4F85-831F-81FAA61FCDCD.jpeg)
 
 ---
 
