@@ -122,9 +122,7 @@ WHERE COL1 IS NULL;
 
 아래 중 하나 이상을 첨부해주세요.
 
-- 강의 수강 화면 캡처
-- JOIN 문제 풀이 정답 화면 캡처
-- JOIN 전후 결과 row 수를 비교한 캡처 또는 메모
+![수강](https://github.com/jaeyi041113-ops/test/blob/main/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5/FF75D6B0-D2F5-4551-AF98-34BD58966386.jpeg)
 
 ---
 
@@ -144,7 +142,7 @@ WHERE COL1 IS NULL;
 - 날짜를 출력한 형식: YYYY-MM-DD
 ```
 
-<!-- 정답을 맞추게 되면, 정답입니다. 이 부분을 캡처해서 이 주석을 지우시고 첨부해주시면 됩니다. -->
+![1](https://github.com/jaeyi041113-ops/test/blob/main/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5/91E9D1D0-07B3-4BF4-AC37-D9A3DA6B8C59.jpeg)
 
 ## 🧩 문제 2
 
@@ -158,7 +156,7 @@ WHERE COL1 IS NULL;
 - 집계한 값: 상품코드별 매출액 합계 (판매가 * 판매량)
 ```
 
-<!-- 정답을 맞추게 되면, 정답입니다. 이 부분을 캡처해서 이 주석을 지우시고 첨부해주시면 됩니다. -->
+![2](https://github.com/jaeyi041113-ops/test/blob/main/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5/CA704232-CE1E-467F-8FF0-4F08F974EDEF.jpeg)
 
 ## 🧩 문제 3
 
@@ -172,7 +170,7 @@ WHERE COL1 IS NULL;
 - NULL이 발생하는 경우: ANIMAL_OUTS에는 있지만 ANIMAL_INS에는 일치하는 ANIMAL_ID가 없는 경우
 ```
 
-<!-- 정답을 맞추게 되면, 정답입니다. 이 부분을 캡처해서 이 주석을 지우시고 첨부해주시면 됩니다. -->
+![3](https://github.com/jaeyi041113-ops/test/blob/main/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5/27E39A96-EF0E-4239-BB24-53F09F3C93F1.jpeg)
 
 ## 🧩 문제 4
 
@@ -186,7 +184,7 @@ WHERE COL1 IS NULL;
 - NULL이 발생하는 경우: ANIMAL_OUTS에는 있지만 ANIMAL_INS에는 일치하는 ANIMAL_ID가 없는 경우
 ```
 
-<!-- 정답을 맞추게 되면, 정답입니다. 이 부분을 캡처해서 이 주석을 지우시고 첨부해주시면 됩니다. -->
+![4](https://github.com/jaeyi041113-ops/test/blob/main/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5/9743DD08-FCFB-42C2-95C7-1F59656EE7F8.jpeg)
 
 ---
 
